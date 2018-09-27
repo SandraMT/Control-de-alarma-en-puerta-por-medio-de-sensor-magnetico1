@@ -18,6 +18,12 @@ El prototipo presentado emana una alarma cada vez que la puerta fue abierta indi
   
   <H2> Funcionamiento de componentes </H2>
 <H4> Arduino UNO </H4>
-.. image:: ../arduino.jpg
-  :alt:
-  :align: center
+![arduino][arduino.jpg]
+  
+  <H4> Reed Switch </H4>
+  
+  <H4> Buzzer </H4>
+  
+  <H4> Potenciometro </H4>
+  
+
