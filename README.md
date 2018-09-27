@@ -32,4 +32,9 @@ El prototipo presentado emana una alarma cada vez que la puerta fue abierta indi
   <img src = "/pote.png">
   <img src = "/pote_arduino.png">
   
+  <H4> <b> Resultado final </H4>
+  <img src = "/resultado.jpeg">
+  
+   <H4> Demostración </H4>
+  <video src = "/demostracion.mp4">
 
