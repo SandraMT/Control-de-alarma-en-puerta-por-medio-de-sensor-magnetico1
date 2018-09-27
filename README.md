@@ -2,11 +2,10 @@
 <H4> 
 La seguridad es indispensable en cualquier momento por lo que en esta ocasión se realiza un prototipado de una alarma en una puerta. Dicha alarma es controlada mediante un <i> reed switch </i> el cual funciona como interruptor mediante el uso de campso magneticos para, en este caso, activar una alarma emanada de un <i> buzzer </i>, un pequeño dispositivo que su función es emitir sonidos.
 </H4>
-<br>
 
 <H5> 
 El prototipo presentado emana una alarma cada vez que la puerta fue abierta indicando a los locatarios la presencia de un intruso. 
-Su implementación no se reduce al control de puerta unicamente, se diseña pensando en diferentes areas de aplicación añadiendo el control de velocidad del sonido del <i> buzzer </i> mediante la variación de un potenciometro, esto nos puede ayudar a posicionar la velocidad de acuerdo al estado de emergencia, siendo una velocidad rápida como estado de emergencia alto y velocidad lenta, estado de emergencia bajo.
+ Su implementación no se reduce al control de puerta unicamente, se diseña pensando en diferentes areas de aplicación añadiendo el control de velocidad del sonido del <i> buzzer </i> mediante la variación de un potenciometro, esto nos puede ayudar a posicionar la velocidad de acuerdo al estado de emergencia, siendo una velocidad rápida como estado de emergencia alto y velocidad lenta, estado de emergencia bajo.
 </H5>
 
 <H3> Material y software necesario </H3>
