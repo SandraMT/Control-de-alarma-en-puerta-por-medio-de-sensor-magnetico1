@@ -18,4 +18,6 @@ El prototipo presentado emana una alarma cada vez que la puerta fue abierta indi
   
   <H2> Funcionamiento de componentes </H2>
 <H4> Arduino UNO </H4>
-![arduino.JPG]
+.. image:: ../arduino.jpg
+  :alt:
+  :align: center
