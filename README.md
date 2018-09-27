@@ -17,4 +17,7 @@ El prototipo presentado emana una alarma cada vez que la puerta fue abierta indi
   <h6> - <a href = https://www.arduino.cc/en/Main/Software> Software Arduino </a>
   
   <H2> Funcionamiento de componentes </H2>
-<h4>
+<H4> Arduino UNO </H4>
+.. image:: ../arduino.JPG
+  :alt:
+  :align: center
