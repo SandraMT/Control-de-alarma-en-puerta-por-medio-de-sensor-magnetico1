@@ -18,7 +18,7 @@ El prototipo presentado emana una alarma cada vez que la puerta fue abierta indi
   
   <H2> Funcionamiento de componentes </H2>
 <H4> Arduino UNO </H4>
-![arduino][arduino.jpg]
+<img src = "/arduino.jpg">
   
   <H4> Reed Switch </H4>
   
