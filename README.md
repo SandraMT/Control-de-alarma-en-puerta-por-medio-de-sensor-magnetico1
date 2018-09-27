@@ -4,8 +4,12 @@ La seguridad es indispensable en cualquier momento por lo que en esta ocasión s
 </H4>
 
 <H3> Material y software necesario </H3>
-  <ol> Microcontrolador Arduino UNO
-  <ol> Reed switch
-  <ol> Buzzer
-  <ol> Potenciometro (opcional)
-  <ol> Jumper
+  <h6> - Microcontrolador Arduino UNO </h6>
+  <h6> - Reed switch </h6>
+  <h6> - Buzzer
+  <h6> - Potenciometro (opcional)
+  <h6> - Jumper
+  <h6> - <a href = https://www.arduino.cc/en/Main/Software> Software Arduino </a>
+  
+  <h3> Diagramas </h3>
+
