@@ -21,9 +21,15 @@ El prototipo presentado emana una alarma cada vez que la puerta fue abierta indi
 <img src = "/arduino.jpg">
   
   <H4> Reed Switch </H4>
+  <img src = "/reed_switch_funcion.jpg">
+  <img src = "/reed_switch.png">
   
   <H4> Buzzer </H4>
+  <img src = "/buzzer.png">
+  <img src = "/buzzer_arduino.png">
   
   <H4> Potenciometro </H4>
+  <img src = "/pote.png">
+  <img src = "/pote_arduino.png">
   
 
